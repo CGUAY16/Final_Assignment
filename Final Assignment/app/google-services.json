@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "907594898963",
+    "firebase_url": "https://slime-invaders.firebaseio.com",
+    "project_id": "slime-invaders",
+    "storage_bucket": "slime-invaders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907594898963:android:263760f803b1cb101de9e6",
+        "android_client_info": {
+          "package_name": "com.CyberNerdForHireGames.slimeinvaders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907594898963-ept51ac55rv19vnui64cer5ojush23pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CyberNerdForHireGames.slimeinvaders",
+            "certificate_hash": "5ce1f241b49e5f745dc9c9c5697a342f5299252f"
+          }
+        },
+        {
+          "client_id": "907594898963-pssagentkg8dm2jcpk0g3croqkj9brm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0jz3qAPGEUXOQ608PnAcS68RHIaJw80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907594898963-pssagentkg8dm2jcpk0g3croqkj9brm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
